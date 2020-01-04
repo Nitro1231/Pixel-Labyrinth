@@ -1,2 +1,4 @@
-# Secret
-프로젝트 매니저였던 내가 이세계에선 픽셀쟝?!
+# Pixel-Labyrinth
+Project Pixel-Labyrinth is a side-scrolling game made by Korean Youth Developer Team: [APPERZ](https://apperz.co.kr/).
+
+*Read this in other languages: [English](README.md), [한국어](README.ko.md).*
